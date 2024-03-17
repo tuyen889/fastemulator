@@ -18,7 +18,7 @@
   "author": "Whalepiz",
   "license": "MIT",
   "dependencies": {
-    "fast-emulator": "1.2.6"
+    "whalepiz-snippet": "1.2.6"
   }
 }
 
